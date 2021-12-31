@@ -1,0 +1,11 @@
+# env files
+*.env
+
+# Docker
+Dockerfile
+docker-compose.yaml
+data
+mongodb
+
+# Node
+node_modules
