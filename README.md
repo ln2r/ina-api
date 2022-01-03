@@ -14,6 +14,9 @@ Backend API for Ina
 * Update the [configuration file](https://github.com/ln2r/ina-api/blob/master/.env.example)
 * Run it! 
 
+## Credits
+* Node data obtained from [BDO Codex](https://bdocodex.com/)
+
 ## Contact
 * Discord: ln2r#1691
 
